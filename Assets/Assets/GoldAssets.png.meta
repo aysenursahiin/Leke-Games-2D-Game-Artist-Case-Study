@@ -441,8 +441,8 @@ TextureImporter:
       name: GoldAssets_13
       rect:
         serializedVersion: 2
-        x: 665
-        y: 3
+        x: 664
+        y: 0
         width: 600
         height: 475
       alignment: 0
