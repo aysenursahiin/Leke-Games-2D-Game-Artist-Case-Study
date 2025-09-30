@@ -1,4 +1,4 @@
-# Leke-Games 2D Game Artist Case Study
+# Leke Games 2D Game Artist Case Study
 Çalışmaya başlamadan önce mevcut oyun içi ekranları inceledim ve kullanıcı açısından öne çıkan problemleri tespit ettim: bilgi yoğunluğu, görsel hiyerarşi eksikliği ve dikkat dağıtan fazla sayıda CTA. Bu gözlemler doğrultusunda, öncelikli hedefim ana CTA’ları belirginleştirmek ve oyuncunun karar verme süresini kısaltmak oldu. Oyun içi görsel oluşturmaları Adobe Illustrator programını kullanarak gerçekleştirdim ve Unity (Canvas) uygulamasına entegre ettim.
 ### Main Menu Redesign
 | Original  | New Version |
