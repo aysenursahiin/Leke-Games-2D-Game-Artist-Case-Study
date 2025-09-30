@@ -30,7 +30,8 @@
 | Arkaplan renk kontrastları güçlü ama çok fazla parlak renk, odak noktasını kaybediyor. |  Arkaplana tek renk gradiyent uygulayarak iki planın (Monthly & Weekly) yan yana açık ve net görünümü sağladım. |
 |  | Üst başlık ekleyerek kullanıcıya doğrudan aksiyon çağrısı yaptım. |
 | Satın alma butonu görsel hiyerarşisinde zayıf kalmış. | CTA ($0.00) belirlendi ve konstratlı şekilde görsel ayrıştırılmış hale getirdim. |
-| Metin açıklamaları tek paragraf halinde sunulduğu için okunabilirlik ve taranabilirlik düşüyordu. | İçerik, madde işaretleriyle yapılandırıldı; böylece kullanıcıların bilgiyi kolayca ayırt etmesini sağladım. | 
+| Metin açıklamaları tek paragraf halinde sunulduğu için okunabilirlik ve taranabilirlik düşüyordu. | İçerik, madde işaretleriyle yapılandırıldı; böylece kullanıcıların bilgiyi kolayca ayırt etmesini sağladım. |
+|  | Kullanıcının dikkatini çekmek ve teklifin cazibesini artırmak amacıyla abonelik ekranına girişte pop-up animasyonu ekledim. |
 
 ![subscription](https://github.com/user-attachments/assets/ca102289-a48c-40b3-b81c-1e24fd7eeea4)
 <img width="2532" height="1170" alt="Subscription" src="https://github.com/user-attachments/assets/c02b96c6-02af-4007-aa85-c317514f0265" />
